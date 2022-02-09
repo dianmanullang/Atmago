@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KOM_Buat Diskusi As Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a87eabed-cc20-4bc4-bea5-c49ee0a1d787</testCaseGuid>
+   <variable>
+      <defaultValue>'Contoh Diskusi'</defaultValue>
+      <description></description>
+      <id>5f730da6-fff8-4064-9577-5f44aa6143a3</id>
+      <masked>false</masked>
+      <name>subject</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini adalah contoh diskusi'</defaultValue>
+      <description></description>
+      <id>00fdfd65-b53f-470d-aab8-fd2e7fe4d384</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sulawesi Utara'</defaultValue>
+      <description></description>
+      <id>2d51afa4-40fa-4eda-87a8-d2dbccb387b6</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manado Kota'</defaultValue>
+      <description></description>
+      <id>9460f129-6745-4932-8ac6-5fb7f86e43ef</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bunaken'</defaultValue>
+      <description></description>
+      <id>d1e20b62-bcee-4c95-9851-919b32d5fcd4</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pendidikan'</defaultValue>
+      <description></description>
+      <id>deafaff1-ec03-4a9b-bc6a-f9aa8315cf13</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\a.jpg'</defaultValue>
+      <description></description>
+      <id>4347d49b-2061-4f31-ac6f-ed2932189b22</id>
+      <masked>false</masked>
+      <name>Upload</name>
+   </variable>
+</TestCaseEntity>

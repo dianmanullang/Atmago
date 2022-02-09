@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94bfa090-4ac0-429a-a1a5-e6914ff9aa20</testCaseGuid>
+   <variable>
+      <defaultValue>'atmago.com'</defaultValue>
+      <description></description>
+      <id>29ce2470-8b30-409f-9d9c-42b8b711c5c1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'pendampingan'</defaultValue>
+      <description></description>
+      <id>e40990c2-06af-475d-8c5b-da6839d959de</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

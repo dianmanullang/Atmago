@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_LayananPublik_AsAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13f36e85-8d2b-4d8c-9381-74c46daa07a1</testCaseGuid>
+   <variable>
+      <defaultValue>'Jalan'</defaultValue>
+      <description></description>
+      <id>02907e92-3a7a-4587-9cdb-00f2ff8b54c3</id>
+      <masked>false</masked>
+      <name>keadaan</name>
+   </variable>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>ae8638b4-2cfa-45aa-ad03-6a870852c2b4</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Barat'</defaultValue>
+      <description></description>
+      <id>522fc279-1dd4-4477-bff0-d8ca2f000888</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kebon Jeruk'</defaultValue>
+      <description></description>
+      <id>87a248b9-7d7c-4fcc-a787-a9fdfcf727df</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\images.jpg'</defaultValue>
+      <description></description>
+      <id>335719a4-dfaa-4cd1-aa55-6352d5617045</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini hanyalah contoh test Laporan(Layanan Publik)'</defaultValue>
+      <description></description>
+      <id>b6b349ff-0d19-4edc-9a8a-b2c42e517d13</id>
+      <masked>false</masked>
+      <name>Keterangan</name>
+   </variable>
+</TestCaseEntity>

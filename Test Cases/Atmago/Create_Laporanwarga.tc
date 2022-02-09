@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Laporanwarga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5e4098-fed0-4a89-823b-545885807db4</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>9f745fd7-6ce7-4d37-988b-7c2faf6ea115</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>0b0a7eac-f4e2-4bdb-9953-34d00e2fb046</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cilandak'</defaultValue>
+      <description></description>
+      <id>1d65e539-07bb-488a-9dae-2079530a5325</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+</TestCaseEntity>

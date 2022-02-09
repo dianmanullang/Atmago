@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_News_AsAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d31b300-5a9c-471f-afac-7bbb591b136a</testCaseGuid>
+   <variable>
+      <defaultValue>'Vaksinasi Tahap ke-2'</defaultValue>
+      <description></description>
+      <id>6b6c60dd-c98d-415e-b8a8-9002cad33cd4</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vaksinasi tahap ke-2 dilakukan pada tanggal 31 Agustus 2021 di puskesmas X'</defaultValue>
+      <description></description>
+      <id>a8bb8bbf-efab-455b-a9cb-0fd02ae9aacf</id>
+      <masked>false</masked>
+      <name>keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sulawesi Barat'</defaultValue>
+      <description></description>
+      <id>6ddca621-4a20-4d53-b986-73b86ed9df90</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mamuju'</defaultValue>
+      <description></description>
+      <id>5aea7e6d-f634-4bda-bb51-73e1f575d148</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mamuju'</defaultValue>
+      <description></description>
+      <id>fefc6b15-5726-4f52-9b82-f02eee344cdc</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kesehatan'</defaultValue>
+      <description></description>
+      <id>c01fa901-8837-4a88-b1f7-16f2c45d0cc5</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar2.jpg'</defaultValue>
+      <description></description>
+      <id>19429b1e-d985-423d-90b4-764e3e1e68ef</id>
+      <masked>false</masked>
+      <name>gambar</name>
+   </variable>
+</TestCaseEntity>

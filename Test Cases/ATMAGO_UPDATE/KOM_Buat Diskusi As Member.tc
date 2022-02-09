@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KOM_Buat Diskusi As Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>701809fb-c5e6-42ca-9be4-8a84d359b40d</testCaseGuid>
+   <variable>
+      <defaultValue>'Buat Diskusi sebagai Mmember Komunitas'</defaultValue>
+      <description></description>
+      <id>f15b7604-5c51-4a79-ba87-4da7c6c660ac</id>
+      <masked>false</masked>
+      <name>judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini adalah contoh diskusi yang dubuat member dikomunitas yang ikutinya'</defaultValue>
+      <description></description>
+      <id>1189d3d5-fac6-4d38-99be-2c8a316bef64</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jawa Timur'</defaultValue>
+      <description></description>
+      <id>d2cd32e9-ad30-4c20-9882-ced1d6a7210e</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Gresik'</defaultValue>
+      <description></description>
+      <id>0a702164-1137-4273-9b75-67b2c9b14d3d</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cerme'</defaultValue>
+      <description></description>
+      <id>39f41dc9-8672-4bd8-8a1d-a25eee80e3ba</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sosial Budaya'</defaultValue>
+      <description></description>
+      <id>68f5b721-ca9f-4755-b6da-dfdc6bdf6d88</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\a.jpg'</defaultValue>
+      <description></description>
+      <id>c1bee1e4-aaa7-412c-9d8d-7f136f4cdff9</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

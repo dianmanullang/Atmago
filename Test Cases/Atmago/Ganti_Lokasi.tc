@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ganti_Lokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c82a4643-ca8b-4548-a965-c70605427117</testCaseGuid>
+   <variable>
+      <defaultValue>'Lampung'</defaultValue>
+      <description></description>
+      <id>015bfcdb-dc92-4934-b25b-d987ba8d6218</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bandar Lampung'</defaultValue>
+      <description></description>
+      <id>c0250201-8bee-41a5-acbe-df7b30a7e41d</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Enggal'</defaultValue>
+      <description></description>
+      <id>d6a1d846-39e1-4c4c-aae1-7be3871299e3</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+</TestCaseEntity>

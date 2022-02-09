@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Filter Topic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7bd8fd4-4748-45a8-a3b6-643e6bf0e22e</testCaseGuid>
+   <variable>
+      <defaultValue>'atmago.com'</defaultValue>
+      <description></description>
+      <id>1786dabd-27c1-4eba-aca2-290122b3e131</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

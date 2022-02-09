@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Daftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a576f7f-5b6a-450e-a27a-3959a0a8062b</testCaseGuid>
+   <variable>
+      <defaultValue>'Pria'</defaultValue>
+      <description></description>
+      <id>a30e85c4-6050-462f-946d-6f74e14d019d</id>
+      <masked>false</masked>
+      <name>Pria</name>
+   </variable>
+   <variable>
+      <defaultValue>'female'</defaultValue>
+      <description></description>
+      <id>40415a61-19fc-4637-a950-d449ddc601d1</id>
+      <masked>false</masked>
+      <name>JenisKelamin</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>840731d6-0f10-4fa7-8bf3-1d69627547b6</id>
+      <masked>false</masked>
+      <name>Tanggal</name>
+   </variable>
+   <variable>
+      <defaultValue>'08'</defaultValue>
+      <description></description>
+      <id>f7316bc9-44c2-4a1c-bf28-ed3d6eda44df</id>
+      <masked>false</masked>
+      <name>Bulan</name>
+   </variable>
+   <variable>
+      <defaultValue>'1999'</defaultValue>
+      <description></description>
+      <id>f4b3f71b-c318-41bd-b05e-5f6c2c219f6f</id>
+      <masked>false</masked>
+      <name>Tahun</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Buat Laporan(Bencana)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f88924c-9a8f-4a03-b404-d8297d7acdf4</testCaseGuid>
+   <variable>
+      <defaultValue>'Rendah'</defaultValue>
+      <description></description>
+      <id>08410e63-a2ab-40f2-a05d-d332964305b3</id>
+      <masked>false</masked>
+      <name>Keadaan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jawa Tengah'</defaultValue>
+      <description></description>
+      <id>040b11a6-e297-42df-89cf-dd067f175a10</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Semarang Kota'</defaultValue>
+      <description></description>
+      <id>38778b7d-6a1b-4b9d-85b1-ee49265f42fe</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Semarang Barat'</defaultValue>
+      <description></description>
+      <id>de720b34-e19b-4297-ae2b-0adb57f6de2e</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ini Banjir Karena Hujan Lebat'</defaultValue>
+      <description></description>
+      <id>6cdbb0a3-7418-422a-af84-046151bc9f75</id>
+      <masked>false</masked>
+      <name>Keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\images.jpg'</defaultValue>
+      <description></description>
+      <id>975f93d8-5481-417d-8ab7-d7cf27bb3428</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+</TestCaseEntity>

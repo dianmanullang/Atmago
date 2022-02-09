@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Komentar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb2fb6ff-119b-4b0e-af4c-cb8fd9cf74d0</testCaseGuid>
+   <variable>
+      <defaultValue>'HARI SEPEDA &amp; LINGKUNGAN HIDUP SEDUNIA, MOMENTUM PENUMBUHAN EKONOMI KREATIF MERGANGSAN'</defaultValue>
+      <description></description>
+      <id>bc3bdec4-4379-4abc-97cb-d8b5d836a1c2</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantap'</defaultValue>
+      <description></description>
+      <id>4343db36-c98c-4c51-9861-42a27d3c30b4</id>
+      <masked>false</masked>
+      <name>Komentar</name>
+   </variable>
+</TestCaseEntity>

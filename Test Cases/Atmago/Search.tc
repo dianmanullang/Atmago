@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31ef538f-f824-49b7-865a-42b7b333935d</testCaseGuid>
+   <variable>
+      <defaultValue>'atmago.com'</defaultValue>
+      <description></description>
+      <id>5fad81a7-af76-44ca-9b26-b294bc5bbe20</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'pendampingan'</defaultValue>
+      <description></description>
+      <id>10d7c734-0339-48d9-92ef-669a54b01063</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

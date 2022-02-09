@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Bencana_AsAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f656f09e-11f0-4787-adb2-608a5b5da39e</testCaseGuid>
+   <variable>
+      <defaultValue>'Tinggi'</defaultValue>
+      <description></description>
+      <id>338d2f47-0585-4561-9b07-18074ba452a9</id>
+      <masked>false</masked>
+      <name>keadaan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kalimantan Barat'</defaultValue>
+      <description></description>
+      <id>9c3b53fc-08ba-456c-ac34-a54c1456966c</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pontianak Kota'</defaultValue>
+      <description></description>
+      <id>15c11e53-7ad1-47e5-a5cd-8719f3ae0efb</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pontianak Utara'</defaultValue>
+      <description></description>
+      <id>b071ca89-3eb1-4ef0-87cf-fe14d374e437</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Banjir diakibatkan oleh hujan deras'</defaultValue>
+      <description></description>
+      <id>a5576b77-aba9-4cab-99f2-5e5a7d959723</id>
+      <masked>false</masked>
+      <name>keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar1.jpg'</defaultValue>
+      <description></description>
+      <id>c4f2a4ad-e4b3-4e64-b7f3-e9828160c565</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

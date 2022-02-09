@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KOM_Buat Aksi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd933c56-3b76-4f52-bb4c-0d30ba0c6871</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>6e5e8786-e417-4ff2-bc1a-2358967dbb54</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>48782ffb-2de6-43c5-bb49-c40342c25675</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tebet'</defaultValue>
+      <description></description>
+      <id>78b46828-3952-403f-9705-8f55a42ff573</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+</TestCaseEntity>

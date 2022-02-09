@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_LayananPublik_AsMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6aa9a640-c231-46c4-a6b0-b272375daa03</testCaseGuid>
+   <variable>
+      <defaultValue>'Nasana Community'</defaultValue>
+      <description></description>
+      <id>03517d6a-ce19-4446-9e78-8c57ed4a4c3d</id>
+      <masked>false</masked>
+      <name>followed</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jalan'</defaultValue>
+      <description></description>
+      <id>4824098d-1d8b-480c-b100-4c475b6ddcd6</id>
+      <masked>false</masked>
+      <name>infrastruktur</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jawa Barat'</defaultValue>
+      <description></description>
+      <id>4fd58a18-f2c4-4a4f-ad3c-bdf85df5c69f</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bandung Kota'</defaultValue>
+      <description></description>
+      <id>92553259-c7f0-4923-9e53-00085ef361e2</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sukasari'</defaultValue>
+      <description></description>
+      <id>599fbd35-230b-4367-8ec0-4a290b1ca1e9</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Setiap jalan berlubang'</defaultValue>
+      <description></description>
+      <id>ee874797-1059-40ad-93b0-5963b53e5746</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\images.jpg'</defaultValue>
+      <description></description>
+      <id>cac32545-bf64-4db7-9af0-67067fcf9a6b</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

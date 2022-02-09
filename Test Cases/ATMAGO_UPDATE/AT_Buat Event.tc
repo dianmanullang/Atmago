@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Buat Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b72f897b-9a50-4b17-a48b-de8a774f7262</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>3cee4c00-03a8-4369-8750-72003b20c805</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Barat'</defaultValue>
+      <description></description>
+      <id>071a9963-d2e8-4eed-afff-b023a5b0d963</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kebon Jeruk'</defaultValue>
+      <description></description>
+      <id>48f423d5-1c05-4303-b387-b268780a095f</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar2.jpg'</defaultValue>
+      <description></description>
+      <id>f85baca0-a560-462a-b3ad-9dc75971ec0a</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

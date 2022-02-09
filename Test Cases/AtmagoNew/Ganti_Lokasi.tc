@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ganti_Lokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51202355-8b67-461b-8ac0-8c8555b593a8</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>ddc33aa0-b462-4b67-94bb-9ec69c09b8ff</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Barat'</defaultValue>
+      <description></description>
+      <id>d6c92a6b-6a95-435e-9e44-8993e54524a8</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kebon Jeruk'</defaultValue>
+      <description></description>
+      <id>22704751-b0d6-440b-a960-8e05a40c143d</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+</TestCaseEntity>

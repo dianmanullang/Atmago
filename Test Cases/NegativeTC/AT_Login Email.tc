@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Login Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>313dbfcb-867f-47b3-b0c0-66de85a08c92</testCaseGuid>
+   <variable>
+      <defaultValue>'diansimanullang@gmail.com'</defaultValue>
+      <description></description>
+      <id>281527ba-e537-4e5d-9d55-8694a80c076f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'dian1234'</defaultValue>
+      <description></description>
+      <id>69755bad-047e-4ca5-877d-a75c5cd1942b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

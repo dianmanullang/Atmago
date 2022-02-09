@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Job_AsAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63fd2d46-066a-45b3-a4d6-55e753012709</testCaseGuid>
+   <variable>
+      <defaultValue>'Guru English'</defaultValue>
+      <description></description>
+      <id>078ec499-4d4a-4f0d-9e1f-bd11dca4bcb1</id>
+      <masked>false</masked>
+      <name>posisi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Paruh waktu'</defaultValue>
+      <description></description>
+      <id>0a79dfe2-0ba7-490b-801a-524d5deb1b06</id>
+      <masked>false</masked>
+      <name>tipe</name>
+   </variable>
+   <variable>
+      <defaultValue>'Memiliki pengalaman sebagai guru english'</defaultValue>
+      <description></description>
+      <id>57903dd5-4b3a-4237-b677-e57cdf79e4e4</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sumatera Utara'</defaultValue>
+      <description></description>
+      <id>77ea0a18-4c57-41d9-9b98-c8bd253c0036</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Karo'</defaultValue>
+      <description></description>
+      <id>8de212ba-a23d-4fe7-a4b5-1c5b72ea5e36</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Barusjahe'</defaultValue>
+      <description></description>
+      <id>a7a28b76-4a1f-40c9-b340-a8294dee711a</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'40000000'</defaultValue>
+      <description></description>
+      <id>ad0656ff-9412-4e58-8070-67cd19623295</id>
+      <masked>false</masked>
+      <name>gaji</name>
+   </variable>
+   <variable>
+      <defaultValue>'kirim cv ke coba@gmail.com'</defaultValue>
+      <description></description>
+      <id>1330c966-b507-42af-bab5-8456c8ce9acd</id>
+      <masked>false</masked>
+      <name>daftar</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar2.jpg'</defaultValue>
+      <description></description>
+      <id>a19748e3-7f74-4155-a662-814068ca4bf5</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

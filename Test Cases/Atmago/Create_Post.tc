@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>958a0c6b-388e-4e53-8e2e-732e5b6fc747</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>f6fc2484-f18d-4793-a47b-32ed4e03d894</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>1efdf53f-4b69-4952-a139-88829589f71b</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cilandak'</defaultValue>
+      <description></description>
+      <id>0b81af34-e4f3-40b7-a4d8-7a6b89d40c57</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+</TestCaseEntity>

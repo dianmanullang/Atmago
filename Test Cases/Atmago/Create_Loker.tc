@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Loker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43bfdb6b-11ea-41b2-ace1-ee7f05f09fd1</testCaseGuid>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>d2fee15e-b31b-4f24-9784-4ecfb87f08a6</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>44f87241-f0a1-4e46-826b-2e8b3ce6284a</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cilandak'</defaultValue>
+      <description></description>
+      <id>fec9078d-14ac-42ef-a883-95bf3c28a82f</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Barista'</defaultValue>
+      <description></description>
+      <id>50126d53-cf99-4da4-a1c5-5303e026170d</id>
+      <masked>false</masked>
+      <name>posisi</name>
+   </variable>
+   <variable>
+      <defaultValue>'- Memiliki pengalaman sebagai Barista\r\n- Umur maksimal 30 tahun\r\n- Ramah\r\n- Bekerja Mulai jam 17:00-22:00 WIB'</defaultValue>
+      <description></description>
+      <id>c64ece7f-7dde-4c6b-a55d-54081be1bdff</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'kirim lamaran ke test@gmail.com'</defaultValue>
+      <description></description>
+      <id>3f0ec957-3cd7-40ea-9bd1-877fa123d672</id>
+      <masked>false</masked>
+      <name>Apply</name>
+   </variable>
+   <variable>
+      <defaultValue>'2000000'</defaultValue>
+      <description></description>
+      <id>5c98f1eb-dada-47e9-97be-14d4fe31540c</id>
+      <masked>false</masked>
+      <name>salary</name>
+   </variable>
+</TestCaseEntity>

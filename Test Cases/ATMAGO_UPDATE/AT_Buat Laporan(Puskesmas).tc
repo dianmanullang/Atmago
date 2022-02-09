@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AT_Buat Laporan(Puskesmas)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4689225-6010-4101-97cb-b667343cb5da</testCaseGuid>
+   <variable>
+      <defaultValue>'Ini hanyalah Contoh dari Lapor Puskesmas'</defaultValue>
+      <description></description>
+      <id>bd5ddcef-7e41-4e27-aad3-bff26971d111</id>
+      <masked>false</masked>
+      <name>Keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\vaksin.jpg'</defaultValue>
+      <description></description>
+      <id>0ec1956c-1482-4280-9771-6313325a3e8a</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+</TestCaseEntity>

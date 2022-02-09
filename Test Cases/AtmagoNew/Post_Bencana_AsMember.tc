@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_Bencana_AsMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b387fc5-a60a-4375-8c83-2db992395a25</testCaseGuid>
+   <variable>
+      <defaultValue>'Rose comunity care'</defaultValue>
+      <description></description>
+      <id>73456682-1f4d-4104-afc9-eb86003f78b9</id>
+      <masked>false</masked>
+      <name>followed</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sedang'</defaultValue>
+      <description></description>
+      <id>7ab9095a-99a5-4994-8c58-0cedc8d4b114</id>
+      <masked>false</masked>
+      <name>keadaan</name>
+   </variable>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>290df63d-c465-40bf-9231-2fff416cc58b</id>
+      <masked>false</masked>
+      <name>provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>f849fcd8-9b75-4763-89ca-ecebb9e80b90</id>
+      <masked>false</masked>
+      <name>kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kebayoran Baru'</defaultValue>
+      <description></description>
+      <id>af1c9789-8929-42a7-b923-9d3d836b08c6</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Banjir diakibatkan karena hujan deras'</defaultValue>
+      <description></description>
+      <id>a914f315-cc25-4d04-87d2-aa74fb79c249</id>
+      <masked>false</masked>
+      <name>keterangan</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar1.jpg'</defaultValue>
+      <description></description>
+      <id>dfb79bba-155d-4ace-ac6d-d5ceb35b8fcd</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

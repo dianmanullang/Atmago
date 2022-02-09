@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat_Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8944e5b3-e7ce-47ae-835b-9e7f2a6356e9</testCaseGuid>
+   <variable>
+      <defaultValue>'Barista'</defaultValue>
+      <description></description>
+      <id>23242f5d-66e6-4531-98f6-a1179d6b7af7</id>
+      <masked>false</masked>
+      <name>Posisi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Paruh waktu'</defaultValue>
+      <description></description>
+      <id>517954ed-6912-4316-afd4-a9046b0e3075</id>
+      <masked>false</masked>
+      <name>Tipe</name>
+   </variable>
+   <variable>
+      <defaultValue>'memiliki pengalaman sebagai barista'</defaultValue>
+      <description></description>
+      <id>16603362-eb6d-4f47-a482-46c3cb3305a7</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sumatera Utara'</defaultValue>
+      <description></description>
+      <id>7605bbaa-ee40-4b06-a4f8-0e1883b5fea9</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Karo'</defaultValue>
+      <description></description>
+      <id>ada7180d-92f4-443a-bc83-767b0501d597</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Berastagi'</defaultValue>
+      <description></description>
+      <id>97254bfe-39e0-4f44-be7f-3b926f00ee28</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'2500000'</defaultValue>
+      <description></description>
+      <id>de6f206f-adff-465e-8e07-7112be403c31</id>
+      <masked>false</masked>
+      <name>Gaji</name>
+   </variable>
+   <variable>
+      <defaultValue>'kirim CV ke contoh@gmail.com'</defaultValue>
+      <description></description>
+      <id>f1606778-00f6-4c28-baed-c2bde3f47944</id>
+      <masked>false</masked>
+      <name>Daftar</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar2.jpg'</defaultValue>
+      <description></description>
+      <id>81379795-2410-4ad3-b659-e6ac366e15e2</id>
+      <masked>false</masked>
+      <name>Upload</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat_Komunitas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c99d3057-5344-4dbf-b99c-353f2a66e859</testCaseGuid>
+   <variable>
+      <defaultValue>'Komunitas Peduli Pendidikan'</defaultValue>
+      <description></description>
+      <id>567516bc-bfeb-44a8-8134-61cffa6873bb</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Komunitas ini hanyalah contoh'</defaultValue>
+      <description></description>
+      <id>d2fabb3d-4617-4c18-828a-db4292daa0eb</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bali'</defaultValue>
+      <description></description>
+      <id>633532bf-092d-40f0-83f0-84c645215462</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+</TestCaseEntity>

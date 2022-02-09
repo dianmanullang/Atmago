@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_News_AsMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dbe719d-c798-4643-ad7f-7673cd6996c8</testCaseGuid>
+   <variable>
+      <defaultValue>'Nasana Community'</defaultValue>
+      <description></description>
+      <id>3cb96abb-3a89-49f5-9630-79b95c11e330</id>
+      <masked>false</masked>
+      <name>Followed</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hidup di Daerah yang Sulit Air'</defaultValue>
+      <description></description>
+      <id>00ca9c84-a6fc-45e5-b45e-a8e2d9ec2661</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hidup di daerah yang sulit air memang tidaklah mudah. Tapi penduduk di daerah xy tetap semangat dalam menjalani hidup dan mencari air bersih'</defaultValue>
+      <description></description>
+      <id>6b199637-516d-4232-a96f-511587ede627</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sulawesi Selatan'</defaultValue>
+      <description></description>
+      <id>48235cbd-6428-4e26-8d91-1887823d7b37</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Luwu Utara'</defaultValue>
+      <description></description>
+      <id>d5198b4d-64be-472e-9cd0-907c199966ab</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Limbong'</defaultValue>
+      <description></description>
+      <id>17731f79-3f21-40ed-b69b-6a64709bff25</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lingkungan Hidup'</defaultValue>
+      <description></description>
+      <id>da202cda-e2ee-4a78-8ce1-8c49b2cc624e</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\gambar2.jpg'</defaultValue>
+      <description></description>
+      <id>4e99fd7f-b029-4c42-9952-54301d28c86f</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

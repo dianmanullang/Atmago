@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat _Berita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80440dcd-b423-409e-89c7-fcbffdcbe619</testCaseGuid>
+   <variable>
+      <defaultValue>'Vaksin Penangkal Covid'</defaultValue>
+      <description></description>
+      <id>e10ce779-dd71-43e4-9d1b-f51dad62cd22</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vaksin dapat berfungsi sebagai pennagkal Covid 19, maka dari situ mari kita segera vaksin dan tetap patuhi prokes'</defaultValue>
+      <description></description>
+      <id>a36f96aa-d656-454d-9082-0688107acfaa</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>4363f542-855e-43c5-ad82-1a32f6e00709</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>9b2aabf5-b672-400f-a5f1-5fc640ee4320</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cilandak'</defaultValue>
+      <description></description>
+      <id>66c775ab-9e28-48d4-aece-7f891f56d69b</id>
+      <masked>false</masked>
+      <name>Kecamatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\a.jpg'</defaultValue>
+      <description></description>
+      <id>5f5845fc-0f80-4e04-b5f9-d05fc281285c</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bencana'</defaultValue>
+      <description></description>
+      <id>7d4cea02-6b67-4e6c-b653-645818fc83b1</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+</TestCaseEntity>

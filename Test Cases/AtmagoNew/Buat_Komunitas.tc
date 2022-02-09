@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat_Komunitas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd0abc68-9701-42f5-8728-09b75028bcb3</testCaseGuid>
+   <variable>
+      <defaultValue>'Komunitas Rafting'</defaultValue>
+      <description></description>
+      <id>10450bb6-eb2e-4ea6-bdf1-788528fea2fe</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'Komunitas ini akan membahas tentang jadwal rafting dan hal-hal mengenai rafting'</defaultValue>
+      <description></description>
+      <id>f068e78b-43a9-4d08-a39c-0d880fe6e04c</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sumatera Utara'</defaultValue>
+      <description></description>
+      <id>9f42b03d-7a25-4b39-a208-d0fc4090024e</id>
+      <masked>false</masked>
+      <name>Provinsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Deli Serdang'</defaultValue>
+      <description></description>
+      <id>bc96d3e0-22ba-41c6-82ba-a6459f983a0e</id>
+      <masked>false</masked>
+      <name>Kabupaten</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\asahan2.jpg'</defaultValue>
+      <description></description>
+      <id>dc230a89-3b66-4b20-bba8-b6200c260b39</id>
+      <masked>false</masked>
+      <name>logo</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\win10\\Downloads\\asahan1.jpg'</defaultValue>
+      <description></description>
+      <id>0ac755b4-2361-4a3f-b9f3-c9ddcfecc918</id>
+      <masked>false</masked>
+      <name>bgfoto</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pelayanan Publik'</defaultValue>
+      <description></description>
+      <id>8eb73366-27a3-46a3-b15b-dd3c3e21f04e</id>
+      <masked>false</masked>
+      <name>Topik</name>
+   </variable>
+</TestCaseEntity>
